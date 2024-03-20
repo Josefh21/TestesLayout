@@ -1,0 +1,65 @@
+body{
+    background-color: blue;
+}
+
+.yo{
+    padding: 50px;
+    margin: 50px;
+    background-color: gold;
+}
+
+.flex{
+    display: flex;
+}
+
+.p250{
+    padding: 250px;
+}
+
+.p260{
+    padding: 260px;
+}
+
+.p265{
+    padding: 265px;
+}
+
+.p270{
+    padding: 270px;
+}
+
+.p290{
+    padding: 290px;
+}
+
+.p500{
+    padding: 500px;
+}
+
+.p580{
+    padding-bottom: 580px;
+}
+
+.p650{
+    padding-bottom: 650px;
+}
+
+.p850{
+    padding-bottom: 850px;
+}
+
+.pr850{
+    padding-right: 850px;
+}
+
+.p900{
+    padding-right: 900px;
+}
+
+.p950{
+    padding-right: 950px;
+}
+
+.p1200{
+    padding-bottom: 1200px;
+}
